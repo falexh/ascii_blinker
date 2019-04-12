@@ -1,0 +1,2 @@
+# ascii_blinker
+Creates blinking ascii message within the terminal 
